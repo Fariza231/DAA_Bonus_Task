@@ -37,7 +37,7 @@ This class acts as a data container that holds all graph information needed by t
 
 This is the core logic class responsible for:
 Constructing the MST using Kruskal’s algorithm.
-Managing dynamic updates (edge removal and replacement).
+Managing dynamic updates.
 Displaying results.
 This class integrates Kruskal’s algorithm with extra functionality for interactive MST management.
 
